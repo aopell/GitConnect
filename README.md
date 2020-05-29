@@ -1,2 +1,2 @@
-# GitHubSnippetsDiscordBot
-Discord bot for easy access to GitHub repository status
+# GitConnect
+Discord Bot that can interact with a connected GitHub repository
